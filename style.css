@@ -481,3 +481,7 @@ footer p {
         padding: 20px;
     }
 }
+nav a.current {
+    color: #c5e9a5;
+    border-bottom: 2px solid #c5e9a5;
+}
